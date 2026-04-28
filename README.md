@@ -47,6 +47,7 @@ Attrition Rate: 16.1%
 
 Average Salary & Age
 
+
 Attrition analysis by:
 
 Education
